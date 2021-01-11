@@ -1,0 +1,1 @@
+These are my solutions to the exercises in the book The C Programming Language (2nd Edition), by Brian W. Kernighan and Dennis M. Ritchie. Many of the solutions are adapted from examples in that book.
