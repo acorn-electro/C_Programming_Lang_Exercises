@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 main() {
-	main_1_7();
+	main_1_8();
 }
